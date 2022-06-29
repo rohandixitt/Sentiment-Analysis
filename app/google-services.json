@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "280105137120",
+    "project_id": "chaton-cf578",
+    "storage_bucket": "chaton-cf578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280105137120:android:621e6ebf482a4860caf185",
+        "android_client_info": {
+          "package_name": "com.example.chaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280105137120-heg8te2q11kb4rcrh5h7k89dau3clso8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chaton",
+            "certificate_hash": "061bb1f56c1f14bc1ebd1174de2ed2c0ac8d9627"
+          }
+        },
+        {
+          "client_id": "280105137120-aggeg8fv83n142bg1cp89u83vsmjgot3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmb1e6bYAF6NLUpMVRua-4570Ce34K6xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280105137120-aggeg8fv83n142bg1cp89u83vsmjgot3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
